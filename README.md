@@ -5,7 +5,7 @@ This is a Capacitor 5 fork of [@evehr's](https://github.com/evehr-vn/capacitor-j
 ## Install
 
 ```bash
-npm install @swernimo/capacitor-jailbreak-root-detection
+npm install @capur16/capacitor-jailbreak-root-detection
 npx cap sync
 ```
 
